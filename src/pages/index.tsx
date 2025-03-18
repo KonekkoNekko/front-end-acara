@@ -1,6 +1,6 @@
 import { Inter } from "next/font/google";
 import { Button } from "@nextui-org/react";
-import PageHead from "@/component/commons/PageHead";
+import PageHead from "@/components/commons/PageHead";
 
 const inter = Inter({ subsets: ["latin"] });
 
