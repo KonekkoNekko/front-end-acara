@@ -8,10 +8,10 @@ import {
 } from "@nextui-org/react";
 import Image from "next/image";
 import Link from "next/link";
-import useRegister from "./useRegister";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
 import { Controller } from "react-hook-form";
 import { cn } from "@/utils/cn";
+import useRegister from "./useRegister";
 
 const Register = () => {
   const {
